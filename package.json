@@ -1,0 +1,16 @@
+{
+  "name": "dnode-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a7medkamel <ak@ahmedkamel.net>",
+  "license": "ISC",
+  "dependencies": {
+    "node-uuid": "^1.4.1",
+    "through2": "^0.6.3",
+    "underscore": "^1.7.0"
+  }
+}
