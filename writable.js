@@ -1,5 +1,6 @@
 var through2      = require('through2')
   , node_uuid     = require('node-uuid')
+  , _             = require('underscore')
   , STATUS_CODES  = require('http').STATUS_CODES
   ;
 
